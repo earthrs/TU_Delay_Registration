@@ -2,7 +2,7 @@
 
 CS264 Proejct
 
-วิชา DSI200 Introduction to Software Engineering วิศวกรรมซอฟต์แวร์เบื้องต้น
+วิชา Introduction to Software Engineering วิศวกรรมซอฟต์แวร์เบื้องต้น
 
 วิชาบังคับปี 2 เทอม 1 มหาวิทยาลัยธรรมศาสตร์ รังสิต สาขาวิทยาการคอมพิวเตอร์ ภาคพิเศษ
 
